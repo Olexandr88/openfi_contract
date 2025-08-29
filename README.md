@@ -21,3 +21,4 @@ OpenFi is a decentralized lending protocol that unlocks liquidity from Real Worl
 ## Contact
 
 - Twitter: [@open_fi_](https://x.com/open_fi_)
+- Telegram: [OpenFI](https://t.me/+HThu0JSoMshjMGZl)
